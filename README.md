@@ -5,9 +5,6 @@
   <a href="www.linkedin.com/in/sabinamahmudova">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/?utm_source=pwa_homescreen&__pwa=1">
-    <img src="https://img.shields.io/badge/Instagram-%20instagram%20orange?style=for-the-badge&logo=instagram&logoColor=white&color=orange" alt="Instagram Badge"/>
-  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=OmkarShivam&style=flat-square&color=blue" alt="" />
