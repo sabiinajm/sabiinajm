@@ -20,14 +20,12 @@
 
 ---
 
-🧑‍💻: About Me :
+About Me :
 - 🔭: I’m a web developer who loves to create beautiful and functional websites using the latest technologies. I have experience in HTML, CSS, JavaScript, and React.
-
-- 🌱: I am also exploring data science and IoT, as I believe they have the potential to transform the world with data-driven insights and smart solutions. I have some knowledge of Python Arduino, and Raspberry           Pi. I’m always eager to learn more and apply them to real-world problems.
+ I’m always eager to learn more and apply them to real-world problems.
 - ⚡: I solve problems on GeeksforGeeks and read tech articles in my free time.
 
-- 📫: How to reach me: omkarshivam99@gmail.com
-  
+- 📫: How to reach me: sabiinajm@gmail.com
  ---
 💻:  Languages and Tools :
 <div>
