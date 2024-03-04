@@ -23,7 +23,6 @@
 About Me :
 - 🔭: I’m a web developer who loves to create beautiful and functional websites using the latest technologies. I have experience in HTML, CSS, JavaScript, and React.
  I’m always eager to learn more and apply them to real-world problems.
-- ⚡: I solve problems on GeeksforGeeks and read tech articles in my free time.
 
 - 📫: How to reach me: sabiinajm@gmail.com
  ---
