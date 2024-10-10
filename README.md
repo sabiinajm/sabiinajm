@@ -9,9 +9,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sabiinajm&style=flat-square&color=blue" alt="" />
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="400" height="230"/>
-</div>
 
 ---
 
