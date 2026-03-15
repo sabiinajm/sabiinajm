@@ -15,10 +15,10 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
- I'm Sabina, a front-end developer from Baku, Azerbaijan. I love to create beautiful and functional websites using the latest technologies. I have experience in HTML, CSS, JavaScript, and React.
+ I'm Sabina, a front-end developer based in NRW, Germany. I love to create beautiful and functional websites using the latest technologies. I have experience in HTML, CSS, JavaScript, and React.
  I’m always eager to learn more and apply them to real-world problems.
 
-- 📫: How to reach me: sabina.mhd@div.edu.az
+- 📫: How to reach me: sabiinajm@gmail.com
  ---
 💻:  Languages and Tools :
 <div>
